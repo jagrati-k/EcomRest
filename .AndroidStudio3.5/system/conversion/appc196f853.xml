@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\AwesomeProject\android\app\.idea\codeStyles\Project.xml" timestamp="1587792156128" />
+    <file path="C:\AwesomeProject\android\app\.idea\gradle.xml" timestamp="1587792164799" />
+    <file path="C:\AwesomeProject\android\app\.idea\misc.xml" timestamp="1587792155818" />
+    <file path="C:\AwesomeProject\android\app\.idea\modules.xml" timestamp="1587792155947" />
+    <file path="C:\AwesomeProject\android\app\.idea\runConfigurations.xml" timestamp="1587792156159" />
+    <file path="C:\AwesomeProject\android\app\.idea\workspace.xml" timestamp="1587955664916" />
+    <file path="C:\AwesomeProject\android\app\app.iml" timestamp="1587792155686" />
+  </project-files>
+</conversion>
+

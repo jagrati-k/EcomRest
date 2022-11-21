@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="960" y="515" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="581" y="294" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="686" y="208" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="328" y="68" />
+    <location key="#Servers.0.0.1920.1080@120dpi" x="451" y="88" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1418" y="893" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1863" height="258" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1863" height="258" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1863" height="258" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1863" height="258" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="145" />
+  </component>
+</application>

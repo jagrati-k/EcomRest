@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\codeStyles\Project.xml" timestamp="1578460889766" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\gradle.xml" timestamp="1578460915480" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\misc.xml" timestamp="1578460889317" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\modules.xml" timestamp="1578460889508" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\runConfigurations.xml" timestamp="1578460889826" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\.idea\workspace.xml" timestamp="1587349941967" />
+    <file path="C:\Users\Dell\AndroidStudioProjects\new_project\new_project.iml" timestamp="1578460888946" />
+  </project-files>
+</conversion>
+
